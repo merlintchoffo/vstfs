@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageModel", "Maqs Framework - SeleniumTests1\PageModel\PageModel.csproj", "{8FC30093-A75B-4FF9-A37D-C84C8C26F609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Maqs Framework - SeleniumTests1\Tests\Tests.csproj", "{66653BC2-9719-4BF3-BE3C-F9391AFF8456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC30093-A75B-4FF9-A37D-C84C8C26F609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC30093-A75B-4FF9-A37D-C84C8C26F609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC30093-A75B-4FF9-A37D-C84C8C26F609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC30093-A75B-4FF9-A37D-C84C8C26F609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66653BC2-9719-4BF3-BE3C-F9391AFF8456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66653BC2-9719-4BF3-BE3C-F9391AFF8456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66653BC2-9719-4BF3-BE3C-F9391AFF8456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66653BC2-9719-4BF3-BE3C-F9391AFF8456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E22036C-C151-48AD-AAFC-48C467C14E3D}
+	EndGlobalSection
+EndGlobal
